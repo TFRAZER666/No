@@ -1,3 +1,1 @@
-# No
-Dog
-I Dont know who stole the damn gems!!!
+Dogstartup_data = read.csv('crunchbase_monthly_export.csv', header = T, stringsAsFactors = F)
